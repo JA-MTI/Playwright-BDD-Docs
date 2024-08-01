@@ -1,4 +1,4 @@
-# Playwright with Typescript - Cucumber - BDD
+# Playwright with Typescript, Cucumber as BDD and Docs generator
 
 ## Installation on local
 - [Puppy Bank instruction](https://vncrtech.medium.com/practice-test-automation-using-a-local-web-application-f8310ca37637)

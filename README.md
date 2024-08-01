@@ -24,3 +24,8 @@ http://localhost:8000
         "editor.defaultFormatter": "CucumberOpen.cucumber-official"
     }
 ```
+- Install dependencies by `npm install`
+## How it works
+- Run npm script `test` to run all tests  
+- Run npm script `show-report` to generate and open Cucumber report (it will be generated in /reports/ folder)  
+- Run npm script `convert-json-to-md` to generate .md file with test results (it will be generated in /reports/ folder)  
